@@ -17,7 +17,7 @@ German Word Lookup does NOT collect, store, transmit, or share any personal info
 
 ─────────────
 EXTERNAL NETWORK REQUESTS
-─────────────
+
 
 The extension makes external network requests only in the following cases:
 
@@ -32,13 +32,13 @@ The extension makes external network requests only in the following cases:
 
 ─────────────
 AUDIO PRONUNCIATION
-───────────
+
 
 The pronunciation feature (🔊 button) uses your browser's built-in Web Speech API to speak the German word aloud. This happens entirely within your browser — no audio is recorded, transmitted, or sent to any external server. German Word Lookup never accesses your microphone.
 
 ─────────
 LOCAL STORAGE
-─────────────
+
 
 The extension uses Chrome's local storage (chrome.storage.local) to save the following data exclusively on your device:
 
@@ -61,7 +61,7 @@ All of this data is stored exclusively on your device. It is never transmitted t
 
 ───────────
 PERMISSIONS
-──────────
+
 
   • storage — to save your word list, preferences, streak, and optional DeepL key locally on your device
   • https://*.wiktionary.org/* — to fetch word definitions and conjugation tables
@@ -72,7 +72,7 @@ No other permissions are requested or used.
 
 ───────
 CONTACT
-─────
+
 
 If you have any questions or concerns about this privacy policy, please contact:
 
