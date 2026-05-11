@@ -1,5 +1,5 @@
 Privacy Policy – German Word Lookup
-Last updated: May 2026 (Version 1.1.1)
+Last updated: May 2026 (Version 1.1.2)
 
 German Word Lookup is committed to protecting your privacy. This policy explains what data is used and how.
 
