@@ -181,8 +181,8 @@ This extension was built with one rule: **your data is yours.**
 ## 💙 Dedicated To
 
 My German classmates who made learning this language worth the effort:
-
-*Talha Waheed Chauhan · Ahsan Ullah · Adil Faisal · Farukh · Rafay · Sohni · Anika · Sabahat · Mamoona · Rija · Faria · Mrs. Waqas · Rana M Wasim*
+![Dedication](dedication.png)
+ 
 
 ---
 
