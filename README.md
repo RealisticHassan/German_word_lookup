@@ -26,7 +26,7 @@ You're reading a German article, a news page, or a study text. You come across a
 3. In the search bar, type **`German Word Lookup`** and press Enter
 4. You will see the extension in the results with the developer icon below 👇
 
-![German Word Lookup Icon](assets/extension.png)
+![German Word Lookup Icon](extension.png)
 
 5. Click on it and then click **Add to Chrome**
 6. Confirm by clicking **Add extension** in the popup
