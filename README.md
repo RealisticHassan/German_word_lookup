@@ -12,7 +12,7 @@ You're reading a German article, a news page, or a study text. You come across a
 
 ## 📥 Install from the Chrome Web Store
 
-> 🔗 *[Link will be added here once published on the Chrome Web Store](https://chromewebstore.google.com/detail/german-word-lookup/kjiahldjgdjhlgbbielkdlnhobbhhdmj?utm_source=item-share-cb+my+extension+has+been+approved+by+google+and+published+it+now+you+can+install+it+to+your+chrome+browser+and+give++a+review).*
+> 🔗 *[Click here to install to your chrome browser](https://chromewebstore.google.com/detail/german-word-lookup/kjiahldjgdjhlgbbielkdlnhobbhhdmj?utm_source=item-share-cb+my+extension+has+been+approved+by+google+and+published+it+now+you+can+install+it+to+your+chrome+browser+and+give++a+review).*
 
 Once installed, the extension sits quietly in your Chrome toolbar. It activates automatically on any webpage — just highlight a German word to get started.
 
