@@ -11,10 +11,29 @@ You're reading a German article, a news page, or a study text. You come across a
 ---
 
 ## 📥 Install from the Chrome Web Store
+
+### Option 1 — Direct Link
 >  **Note:** Please open this link in Google Chrome browser:  
 > 🔗 *[Click here to install to your chrome browser](https://chromewebstore.google.com/detail/german-word-lookup/kjiahldjgdjhlgbbielkdlnhobbhhdmj?utm_source=item-share-cb+my+extension+has+been+approved+by+google+and+published+it+now+you+can+install+it+to+your+chrome+browser+and+give++a+review).*
 
-Once installed, the extension sits quietly in your Chrome toolbar. It activates automatically on any webpage — just highlight a German word to get started.
+---
+
+### Option 2 — Search Manually in Chrome
+
+1. Open **Google Chrome** and click the three dots menu (⋮) in the top-right corner
+2. Go to **Extensions → Visit Chrome Web Store**  
+   *(or type `chrome://extensions` in the address bar and click **Open Chrome Web Store**)*
+3. In the search bar, type **`German Word Lookup`** and press Enter
+4. You will see the extension in the results with the developer icon below 👇
+
+![German Word Lookup Icon](assets/extension.png)
+
+5. Click on it and then click **Add to Chrome**
+6. Confirm by clicking **Add extension** in the popup
+
+---
+
+Once installed, the extension sits quietly in your Chrome toolbar. It activates automatically on any webpage — just highlight a German word to get started..
 
 ---
 
